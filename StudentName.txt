@@ -1,0 +1,3 @@
+ Name: Joshua
+About Me: I am a full-stack developer interested in AI and React.js.
+Team Project: A social chat app using React.js and Firebase.
