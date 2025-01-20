@@ -1,1 +1,1 @@
-So, this should be changed, Niggers
+So, this should be changed
